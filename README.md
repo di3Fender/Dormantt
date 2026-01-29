@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kerem
-- 👀 I’m interested in drawing and game developement
+- 👀 I’m interested in cyber security, opertating softwares and game developement
 - 🌱 I’m currently learning java & C#
 - 📫 How to reach me: cetintas.kerem@gmail.com

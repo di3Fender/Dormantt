@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kerem
 - 👀 I’m interested in cyber security, opertating softwares and game developement
-- 🌱 I’m currently learning java & C#
+- 🌱 I’m currently making a game on Unity using C# called "Quo Vadis?" and working on a BuilDeck side project
 - 📫 How to reach me: cetintas.kerem@gmail.com

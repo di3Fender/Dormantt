@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kerem
+- 👋 Hi, I’m Kerem a cyber security ITI major with German Minor @Rutgers NB
 - 👀 I’m interested in cyber security, opertating softwares and game developement
-- 🌱 I’m currently making a game on Unity using C# called "Quo Vadis?" and working on a BuilDeck side project
+- 🌱 I’m currently making a game on Unity using C# called "Quo Vadis?" and working on a open source side project called "BuilDeck"
 - 📫 How to reach me: cetintas.kerem@gmail.com
